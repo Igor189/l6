@@ -1,0 +1,15 @@
+<!-- В файле menu/menu_bottom_app_bar.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/search"
+        android:title="Favorite"
+        app:showAsAction="always" />
+    <!-- Добавьте другие пункты меню, если необходимо -->
+</menu>
