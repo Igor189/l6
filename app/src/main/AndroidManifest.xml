@@ -9,11 +9,3 @@
         <activity
             android:name=".MainActivity"
             android:efsdfsdfsdfsdfsdxported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </i
-    </application>
-
-</manifest>
