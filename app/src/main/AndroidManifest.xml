@@ -8,7 +8,7 @@
         a
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:efsdfsdfsdfsdfsdxported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
