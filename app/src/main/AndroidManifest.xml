@@ -8,12 +8,4 @@
         a
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </i
-    </application>
-
-</manifest>
+            android:efsdfsdfsdfsdfsdxported="true">
