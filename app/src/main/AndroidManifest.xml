@@ -7,5 +7,3 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         a
         <activity
-            android:name=".MainActivity"
-fsdfsdfsd
